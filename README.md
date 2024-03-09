@@ -8,4 +8,4 @@ Added local txt
 
 Added txt to newbranch
 
-Work with conflict
+Break conflict web txt
